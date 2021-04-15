@@ -1,5 +1,4 @@
 import React from 'react'
-import { projectStorage } from '../firebase/config'
 import {motion} from 'framer-motion'
 
 const Modal = ({selectedImg, setSelectedImg}) => {
